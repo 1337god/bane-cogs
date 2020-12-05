@@ -1,0 +1,8 @@
+{
+    "author" : ["Bane"],
+    "install_msg" : "Thanks for checking out my cogs!\nAdd me on Discord: bane#1640",
+    "name" : "Bane-cogs",
+    "short" : "Cogs by Bane inspired by many.",
+    "description" : "A plethora of potentially useful commands and functions for your bot.",
+    "tags" : ["Fun", "Memes", "Images", "Entertaining", "Utility", "Games", "Trigger"]
+}
